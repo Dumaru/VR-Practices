@@ -240,7 +240,7 @@ public class GvrReticlePointer : GvrBasePointer
         int segments_count = reticleSegments;
         int vertex_count = (segments_count + 1) * 2;
 
-#region Vertices
+        #region Vertices
 
         Vector3[] vertices = new Vector3[vertex_count];
 
@@ -258,9 +258,9 @@ public class GvrReticlePointer : GvrBasePointer
             vertices[vi++] = new Vector3(x, y, 0.0f); // Outer vertex.
             vertices[vi++] = new Vector3(x, y, 1.0f); // Inner vertex.
         }
-#endregion
+        #endregion
 
-#region Triangles
+        #region Triangles
         int indices_count = (segments_count + 1) * 3 * 2;
         int[] indices = new int[indices_count];
 
@@ -278,7 +278,7 @@ public class GvrReticlePointer : GvrBasePointer
 
             vert += 2;
         }
-#endregion
+        #endregion
 
         mesh.vertices = vertices;
         mesh.triangles = indices;
