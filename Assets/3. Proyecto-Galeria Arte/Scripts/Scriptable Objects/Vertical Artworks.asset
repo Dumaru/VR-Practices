@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61963675f5bc64944a83baea07a76be7, type: 3}
+  m_Name: Vertical Artworks
+  m_EditorClassIdentifier: 
+  artworks:
+  - {fileID: 2800000, guid: c7d4d9f4029b9554fb11c7bed023494f, type: 3}
+  - {fileID: 2800000, guid: 8e4891572581c9f45b99bb3f9e3a9b6b, type: 3}
+  - {fileID: 2800000, guid: 50d749bf829438f44865f30b268d75ce, type: 3}
+  - {fileID: 2800000, guid: e94b87c212d0cb749b3603b1dac86dd2, type: 3}
+  - {fileID: 2800000, guid: 2b78212468b085744931ad82a0226db8, type: 3}
+  - {fileID: 2800000, guid: 78221542122134640a9e8d1846201b45, type: 3}

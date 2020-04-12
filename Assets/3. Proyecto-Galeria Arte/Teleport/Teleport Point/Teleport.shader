@@ -2,7 +2,7 @@
 {
 	Properties
 	{
-		_TintColor( "Color", Color ) = ( 64, 64, 64, 128 )
+		_TintColor( "Color", Color ) = ( 0.5, 0.5, 0.5, 1 )
 		_SeeThru( "Always Visible", Range( 0.0, 1.0 ) ) = 1
 		_MainTex( "Texture 2D", 2D ) = "white" {}
 	}

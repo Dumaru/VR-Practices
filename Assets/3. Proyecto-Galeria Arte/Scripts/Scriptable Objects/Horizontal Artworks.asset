@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61963675f5bc64944a83baea07a76be7, type: 3}
+  m_Name: Horizontal Artworks
+  m_EditorClassIdentifier: 
+  artworks:
+  - {fileID: 2800000, guid: ff299e671e47b7643847fbb2c7856aea, type: 3}
+  - {fileID: 2800000, guid: 2d05122489895734f8b5cf3a9acc6444, type: 3}
+  - {fileID: 2800000, guid: 6c7de823b69b60b499acb8c9e349a0ad, type: 3}
+  - {fileID: 2800000, guid: f4d0a080027fa6548a1f480da2a8f962, type: 3}
+  - {fileID: 2800000, guid: 9f0e3ee97bb94664ca0a394eadcb914f, type: 3}
+  - {fileID: 2800000, guid: b0d7abc998eb2aa4fb70dd4fbdbc9318, type: 3}
