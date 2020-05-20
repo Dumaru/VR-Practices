@@ -1,2 +1,2 @@
-# Google-VR-Project-Template
-This is a template for a Google VR project 
+# VR-Practices
+Unity project for practicing VR development using Google Cardboard SDK.
