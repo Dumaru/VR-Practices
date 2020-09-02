@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GoogleVR/Demos/Scenes/VideoDemo.unity
     guid: c79d901ffb34f428eadaa3a7269a6c7c
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e99d1a21bad217745b2eb85f4b898424,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: ea93d98d9971727498825b7ce50d6d57,
+      type: 2}
