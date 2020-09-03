@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: b8abf83bf63c9eb4cb8e28942d49b126
+timeCreated: 1512245030
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Meteor_1
+    100002: Meteor_2
+    100004: Meteor_3
+    100006: Moon_1
+    100008: Moon_2
+    100010: Moon_3
+    100012: Planet_1
+    100014: Planet_2
+    100016: Planet_3
+    100018: Planet_4
+    100020: Planet_5
+    100022: Planet_6
+    100024: Planet_7
+    100026: Planet_8
+    100028: Planet_9
+    100030: //RootNode
+    100032: ring_asteroids
+    100034: ring_solo
+    400000: Meteor_1
+    400002: Meteor_2
+    400004: Meteor_3
+    400006: Moon_1
+    400008: Moon_2
+    400010: Moon_3
+    400012: Planet_1
+    400014: Planet_2
+    400016: Planet_3
+    400018: Planet_4
+    400020: Planet_5
+    400022: Planet_6
+    400024: Planet_7
+    400026: Planet_8
+    400028: Planet_9
+    400030: //RootNode
+    400032: ring_asteroids
+    400034: ring_solo
+    2300000: Meteor_1
+    2300002: Meteor_2
+    2300004: Meteor_3
+    2300006: Moon_1
+    2300008: Moon_2
+    2300010: Moon_3
+    2300012: Planet_1
+    2300014: Planet_2
+    2300016: Planet_3
+    2300018: Planet_4
+    2300020: Planet_5
+    2300022: Planet_6
+    2300024: Planet_7
+    2300026: Planet_8
+    2300028: Planet_9
+    2300030: ring_asteroids
+    2300032: ring_solo
+    3300000: Meteor_1
+    3300002: Meteor_2
+    3300004: Meteor_3
+    3300006: Moon_1
+    3300008: Moon_2
+    3300010: Moon_3
+    3300012: Planet_1
+    3300014: Planet_2
+    3300016: Planet_3
+    3300018: Planet_4
+    3300020: Planet_5
+    3300022: Planet_6
+    3300024: Planet_7
+    3300026: Planet_8
+    3300028: Planet_9
+    3300030: ring_asteroids
+    3300032: ring_solo
+    4300000: ring_solo
+    4300002: Meteor_3
+    4300004: Meteor_2
+    4300006: Meteor_1
+    4300008: Moon_3
+    4300010: Moon_1
+    4300012: Moon_2
+    4300014: ring_asteroids
+    4300016: Planet_9
+    4300018: Planet_8
+    4300020: Planet_7
+    4300022: Planet_6
+    4300024: Planet_5
+    4300026: Planet_4
+    4300028: Planet_3
+    4300030: Planet_2
+    4300032: Planet_1
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
