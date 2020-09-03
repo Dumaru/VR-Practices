@@ -2,7 +2,8 @@
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace Inmobiliaria {
+namespace Inmobiliaria
+{
 
     public class GvrReticleTimer : MonoBehaviour
     {
